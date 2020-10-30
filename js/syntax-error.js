@@ -7,8 +7,10 @@ RESOURCE: CHECK YOUR README 📖
 ****************************************************************************/
 
 // Error 1
+// let d = {5}
 
 // Error 2
+const tyler = 'tyler's apartment';
 
 // Error 3
 

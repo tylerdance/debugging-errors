@@ -12,8 +12,11 @@ RESOURCE: CHECK YOUR README 📖
 ****************************************************************************/
 
 // Error 1
+// string.fromCodePoint['-1']
+
 
 // Error 2
+55.5.toExponential(-5);
 
 // Error 3
 

@@ -7,8 +7,13 @@ RESOURCE: CHECK YOUR README 📖
 ****************************************************************************/
 
 // Error 1
+let x = {color: 'white', make: 'tesla'}
+x.map(function() {
+    return
+})
 
 // Error 2
+
 
 // Error 3
 
