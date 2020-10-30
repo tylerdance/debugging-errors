@@ -11,6 +11,11 @@ Here are the list of errors you may encounter using JavaScript:
 3. [RangeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError)
 ![Reference Error](reference_error.png)
 4. [ReferenceError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError)
+    - [ ] ReferenceError: assignment to undeclared variable "x"
+    - [ ] ReferenceError: can't access lexical declaration`X' before initialization
+    - [ ] ReferenceError: deprecated caller or arguments usage
+    - [ ] ReferenceError: invalid assignment left-hand side
+    - [ ] ReferenceError: reference to undefined property "x"
 5. [SyntaxError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError)
 6. [TypeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError)
 7. [URIError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError)
