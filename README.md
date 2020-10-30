@@ -11,7 +11,7 @@ Here are the list of errors you may encounter using JavaScript:
 3. [RangeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError)
 ## 4. { [ReferenceError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError) }
 ![Reference Error](reference_error.png)
-List of `ReferenceError`
+- List of `ReferenceError`
     - [ ] [ReferenceError: "x" is not defined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined)
     - [ ] [ReferenceError: assignment to undeclared variable "x"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Undeclared_var) 
     - [ ] [ReferenceError: can't access lexical declaration`X' before initialization](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_access_lexical_declaration_before_init)
