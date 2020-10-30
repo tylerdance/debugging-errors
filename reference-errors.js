@@ -19,12 +19,7 @@ Make 3-5 different examples of reference errors.
 Look at the console to see what line the error is on to know what to do when 
 coming in contact with that error 
 
-RESOURCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined
-ReferenceError: assignment to undeclared variable "x"
-ReferenceError: can't access lexical declaration`X' before initialization
-ReferenceError: deprecated caller or arguments usage
-ReferenceError: invalid assignment left-hand side
-ReferenceError: reference to undefined property "x"
+RESOURCE: CHECK THE README
 ****************************************************************************/
 
 // Error 1
